@@ -1,0 +1,61 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "roles": [
+                1,
+                2,
+                3
+            ],
+            "name": "Moacir",
+            "email": "moacir.braga@guiainvest.com.br",
+            "password": "12345"
+        },
+        {
+            "id": 2,
+            "roles": [
+                1,
+                2,
+                3
+            ],
+            "name": "Fred",
+            "email": "fredballve@guiainvest.com.br",
+            "password": "12345"
+        },
+        {
+            "id": 3,
+            "roles": [],
+            "name": "Bruno",
+            "email": "brunohahn@guiainvest.com.br",
+            "password": "12345"
+        },
+        {
+            "id": 4,
+            "roles": [
+                1,
+                2,
+                3
+            ],
+            "name": "Cleisson",
+            "email": "CleissonFlores3@guiainvest.com.br",
+            "password": "12345"
+        }
+    ],
+    "roles": [
+        {
+            "id": 1,
+            "name": "create_user",
+            "friendly_name": "Create User"
+        },
+        {
+            "id": 2,
+            "name": "update_user",
+            "friendly_name": "Update User"
+        },
+        {
+            "id": 3,
+            "name": "view_users",
+            "friendly_name": "View Users"
+        }
+    ]
+}
